@@ -1,4 +1,4 @@
-An experiment environment of [http://cms-hit.sunner.cn/course/view.php?id=44 Operating System course[ in [http://www.hit.edu.cn/ Harbin Institute of Technology]
+An experiment environment of [http://cms-hit.sunner.cn/course/view.php?id=44 Operating System course] in [http://www.hit.edu.cn/ Harbin Institute of Technology]
 
 = Introduction =
 
