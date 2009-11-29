@@ -1,0 +1,5 @@
+An experiment environment of [http://cms-hit.sunner.cn/course/view.php?id=44 Operating System course[ in [http://www.hit.edu.cn/ Harbin Institute of Technology]
+
+= Introduction =
+
+Hit-oslab is an experiment environment mainly for students. It works on PC of IA-32(x86) architecture. Hit-oslab integrates Bochs and linux-0.11.
