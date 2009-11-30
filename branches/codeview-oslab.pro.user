@@ -1,0 +1,322 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList" />
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString" >codeview-oslab.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString" >codeview-oslab</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool" >false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool" >false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList" />
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool" >false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString" >Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int" >0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString" >Release</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+   <value key="QtVersionId" type="int" >0</value>
+   <value key="addQDumper" type="" ></value>
+   <value key="buildDirectory" type="QString" >/home/ghd/oslab/codeview</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+   <value key="QtVersionId" type="int" >0</value>
+   <value key="addQDumper" type="" ></value>
+   <value key="buildDirectory" type="QString" >/home/ghd/oslab/codeview</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-2UamxHUWTt,guid=3a3542faf51d98a4ec7b2d5f4a967214</value>
+    <value type="QString" >DESKTOP_SESSION=default</value>
+    <value type="QString" >DESKTOP_STARTUP_ID=</value>
+    <value type="QString" >DISPLAY=:0.0</value>
+    <value type="QString" >GDMSESSION=default</value>
+    <value type="QString" >GDM_LANG=zh_CN.UTF-8</value>
+    <value type="QString" >GDM_XSERVER_LOCATION=local</value>
+    <value type="QString" >GNOME_DESKTOP_SESSION_ID=Default</value>
+    <value type="QString" >GNOME_KEYRING_PID=5985</value>
+    <value type="QString" >GNOME_KEYRING_SOCKET=/tmp/keyring-TB2CNo/socket</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/seahorse-cHSfEI/S.gpg-agent:6064:1</value>
+    <value type="QString" >GST_ID3_TAG_ENCODING=GBK</value>
+    <value type="QString" >GTK_IM_MODULE=scim-bridge</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/ghd/.gtkrc-1.2-gnome2</value>
+    <value type="QString" >HOME=/home/ghd</value>
+    <value type="QString" >LANG=zh_CN.UTF-8</value>
+    <value type="QString" >LC_CTYPE=zh_CN.UTF-8</value>
+    <value type="QString" >LD_LIBRARY_PATH=/home/ghd/study/qt4.5.2/lib/qtcreator:</value>
+    <value type="QString" >LOGNAME=ghd</value>
+    <value type="QString" >PATH=/home/ghd/study/qt4.5.2/qt/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/ghd</value>
+    <value type="QString" >QTDIR=/home/ghd/study/qt4.5.2/qt</value>
+    <value type="QString" >QT_IM_MODULE=xim</value>
+    <value type="QString" >SESSION_MANAGER=local/ghd-laptop:/tmp/.ICE-unix/5989</value>
+    <value type="QString" >SHELL=/bin/bash</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/keyring-TB2CNo/ssh</value>
+    <value type="QString" >USER=ghd</value>
+    <value type="QString" >USERNAME=ghd</value>
+    <value type="QString" >WINDOWPATH=7</value>
+    <value type="QString" >XAUTHORITY=/home/ghd/.Xauthority</value>
+    <value type="QString" >XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/usr/share/gdm/</value>
+    <value type="QString" >XDG_SESSION_COOKIE=b1e1563f3884cc87d8862f14490c089c-1251373585.447347-836410928</value>
+    <value type="QString" >XMODIFIERS=@im=SCIM</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >/home/ghd/oslab/codeview/codeview-oslab.pro</value>
+    <value type="QString" >-spec</value>
+    <value type="QString" >linux-g++</value>
+    <value type="QString" >-r</value>
+    <value type="QString" >CONFIG+=debug</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >/home/ghd/study/qt4.5.2/qt/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool" >false</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/home/ghd/oslab/codeview</value>
+   <value key="buildConfiguration" type="int" >2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-2UamxHUWTt,guid=3a3542faf51d98a4ec7b2d5f4a967214</value>
+    <value type="QString" >DESKTOP_SESSION=default</value>
+    <value type="QString" >DESKTOP_STARTUP_ID=</value>
+    <value type="QString" >DISPLAY=:0.0</value>
+    <value type="QString" >GDMSESSION=default</value>
+    <value type="QString" >GDM_LANG=zh_CN.UTF-8</value>
+    <value type="QString" >GDM_XSERVER_LOCATION=local</value>
+    <value type="QString" >GNOME_DESKTOP_SESSION_ID=Default</value>
+    <value type="QString" >GNOME_KEYRING_PID=5985</value>
+    <value type="QString" >GNOME_KEYRING_SOCKET=/tmp/keyring-TB2CNo/socket</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/seahorse-cHSfEI/S.gpg-agent:6064:1</value>
+    <value type="QString" >GST_ID3_TAG_ENCODING=GBK</value>
+    <value type="QString" >GTK_IM_MODULE=scim-bridge</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/ghd/.gtkrc-1.2-gnome2</value>
+    <value type="QString" >HOME=/home/ghd</value>
+    <value type="QString" >LANG=zh_CN.UTF-8</value>
+    <value type="QString" >LC_CTYPE=zh_CN.UTF-8</value>
+    <value type="QString" >LD_LIBRARY_PATH=/home/ghd/study/qt4.5.2/lib/qtcreator:</value>
+    <value type="QString" >LOGNAME=ghd</value>
+    <value type="QString" >PATH=/home/ghd/study/qt4.5.2/qt/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/ghd</value>
+    <value type="QString" >QTDIR=/home/ghd/study/qt4.5.2/qt</value>
+    <value type="QString" >QT_IM_MODULE=xim</value>
+    <value type="QString" >SESSION_MANAGER=local/ghd-laptop:/tmp/.ICE-unix/5989</value>
+    <value type="QString" >SHELL=/bin/bash</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/keyring-TB2CNo/ssh</value>
+    <value type="QString" >USER=ghd</value>
+    <value type="QString" >USERNAME=ghd</value>
+    <value type="QString" >WINDOWPATH=7</value>
+    <value type="QString" >XAUTHORITY=/home/ghd/.Xauthority</value>
+    <value type="QString" >XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/usr/share/gdm/</value>
+    <value type="QString" >XDG_SESSION_COOKIE=b1e1563f3884cc87d8862f14490c089c-1251373585.447347-836410928</value>
+    <value type="QString" >XMODIFIERS=@im=SCIM</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool" >true</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/home/ghd/oslab/codeview</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-SsGx0TMmfe,guid=8ddc732bbac5b20c4d53d96d4b111f24</value>
+    <value type="QString" >DESKTOP_SESSION=gnome</value>
+    <value type="QString" >DESKTOP_STARTUP_ID=</value>
+    <value type="QString" >DISPLAY=:0.0</value>
+    <value type="QString" >GDMSESSION=gnome</value>
+    <value type="QString" >GDM_KEYBOARD_LAYOUT=us</value>
+    <value type="QString" >GDM_LANG=en_US.UTF-8</value>
+    <value type="QString" >GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString" >GNOME_KEYRING_PID=1605</value>
+    <value type="QString" >GNOME_KEYRING_SOCKET=/tmp/keyring-cphU58/socket</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/gpg-snNArT/S.gpg-agent:1669:1</value>
+    <value type="QString" >GTK_IM_MODULE=xim</value>
+    <value type="QString" >GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/foricee/.gtkrc-1.2-gnome2</value>
+    <value type="QString" >HOME=/home/foricee</value>
+    <value type="QString" >LANG=en_US.UTF-8</value>
+    <value type="QString" >LANGUAGE=en_US.UTF-8</value>
+    <value type="QString" >LD_LIBRARY_PATH=/home/foricee/qtsdk-2009.04/lib/qtcreator:</value>
+    <value type="QString" >LOGNAME=foricee</value>
+    <value type="QString" >ORBIT_SOCKETDIR=/tmp/orbit-foricee</value>
+    <value type="QString" >PATH=/home/foricee/qtsdk-2009.04/qt/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/foricee</value>
+    <value type="QString" >QTDIR=/home/foricee/qtsdk-2009.04/qt</value>
+    <value type="QString" >QT_IM_MODULE=xim</value>
+    <value type="QString" >SESSION_MANAGER=local/ghddd:@/tmp/.ICE-unix/1620,unix/ghddd:/tmp/.ICE-unix/1620</value>
+    <value type="QString" >SHELL=/bin/bash</value>
+    <value type="QString" >SPEECHD_PORT=7560</value>
+    <value type="QString" >SSH_AGENT_PID=1668</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/keyring-cphU58/socket.ssh</value>
+    <value type="QString" >USER=foricee</value>
+    <value type="QString" >USERNAME=foricee</value>
+    <value type="QString" >XAUTHORITY=/var/run/gdm/auth-for-foricee-RahPeG/database</value>
+    <value type="QString" >XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/</value>
+    <value type="QString" >XDG_SESSION_COOKIE=5adca435f30133cf8a35424c4aeee191-1259413283.844615-1970773698</value>
+    <value type="QString" >XMODIFIERS=@im=fcitx</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >/media/Core/Documents and Settings/foricee/桌面/codeview-linux/codeview-oslab.pro</value>
+    <value type="QString" >-spec</value>
+    <value type="QString" >linux-g++-64</value>
+    <value type="QString" >-r</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >/home/foricee/qtsdk-2009.04/qt/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool" >false</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/media/Core/Documents and Settings/foricee/桌面/codeview-linux</value>
+   <value key="buildConfiguration" type="int" >0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-SsGx0TMmfe,guid=8ddc732bbac5b20c4d53d96d4b111f24</value>
+    <value type="QString" >DESKTOP_SESSION=gnome</value>
+    <value type="QString" >DESKTOP_STARTUP_ID=</value>
+    <value type="QString" >DISPLAY=:0.0</value>
+    <value type="QString" >GDMSESSION=gnome</value>
+    <value type="QString" >GDM_KEYBOARD_LAYOUT=us</value>
+    <value type="QString" >GDM_LANG=en_US.UTF-8</value>
+    <value type="QString" >GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString" >GNOME_KEYRING_PID=1605</value>
+    <value type="QString" >GNOME_KEYRING_SOCKET=/tmp/keyring-cphU58/socket</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/gpg-snNArT/S.gpg-agent:1669:1</value>
+    <value type="QString" >GTK_IM_MODULE=xim</value>
+    <value type="QString" >GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/foricee/.gtkrc-1.2-gnome2</value>
+    <value type="QString" >HOME=/home/foricee</value>
+    <value type="QString" >LANG=en_US.UTF-8</value>
+    <value type="QString" >LANGUAGE=en_US.UTF-8</value>
+    <value type="QString" >LD_LIBRARY_PATH=/home/foricee/qtsdk-2009.04/lib/qtcreator:</value>
+    <value type="QString" >LOGNAME=foricee</value>
+    <value type="QString" >ORBIT_SOCKETDIR=/tmp/orbit-foricee</value>
+    <value type="QString" >PATH=/home/foricee/qtsdk-2009.04/qt/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/foricee</value>
+    <value type="QString" >QTDIR=/home/foricee/qtsdk-2009.04/qt</value>
+    <value type="QString" >QT_IM_MODULE=xim</value>
+    <value type="QString" >SESSION_MANAGER=local/ghddd:@/tmp/.ICE-unix/1620,unix/ghddd:/tmp/.ICE-unix/1620</value>
+    <value type="QString" >SHELL=/bin/bash</value>
+    <value type="QString" >SPEECHD_PORT=7560</value>
+    <value type="QString" >SSH_AGENT_PID=1668</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/keyring-cphU58/socket.ssh</value>
+    <value type="QString" >USER=foricee</value>
+    <value type="QString" >USERNAME=foricee</value>
+    <value type="QString" >XAUTHORITY=/var/run/gdm/auth-for-foricee-RahPeG/database</value>
+    <value type="QString" >XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/</value>
+    <value type="QString" >XDG_SESSION_COOKIE=5adca435f30133cf8a35424c4aeee191-1259413283.844615-1970773698</value>
+    <value type="QString" >XMODIFIERS=@im=fcitx</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool" >true</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/media/Core/Documents and Settings/foricee/桌面/codeview-linux</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >Debug</value>
+   <value type="QString" >Release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+   <value key="mkspec" type="QString" ></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >trolltech.qt4projectmanager.qmake</value>
+   <value type="QString" >trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+   <value key="clean" type="bool" >true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray" >System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap" />
+ </data>
+</qtcreator>
