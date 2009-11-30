@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/iamge" >
+        <file>iamges/arrow.png</file>
+        <file>iamges/balloon.PNG</file>
+        <file>iamges/cut.png</file>
+        <file>iamges/find.png</file>
+        <file>iamges/new.png</file>
+        <file>iamges/open.png</file>
+        <file>iamges/redo.png</file>
+        <file>iamges/undo.png</file>
+        <file>iamges/save.png</file>
+        <file>iamges/searchreplace.png</file>
+        <file>iamges/copy.png</file>
+        <file>iamges/relaxView.png</file>
+        <file>iamges/sync-folder%20(2).png</file>
+        <file>iamges/Sync.png</file>
+        <file>iamges/addgroup.png</file>
+        <file>iamges/forward.png</file>
+        <file>iamges/1.PNG</file>
+        <file>iamges/sureNot.png</file>
+        <file>iamges/run.png</file>
+        <file>iamges/compile.png</file>
+        <file>iamges/paste.png</file>
+        <file>iamges/sure.png</file>
+        <file>iamges/cpp.png</file>
+        <file>iamges/h.png</file>
+        <file>iamges/c.png</file>
+        <file>iamges/folder.png</file>
+        <file>iamges/asm.png</file>
+    </qresource>
+</RCC>
